@@ -11,5 +11,5 @@ I'm currently available for work so just contact me on my Twitter or add my Disc
 
 ### Extra
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tru9&repo=denblox&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=tru9&show_icons=true&theme=vue-dark)](https://github.com/tru9)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tru9&repo=denblox&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  
+[![Stats Card](https://github-readme-stats.vercel.app/api?username=tru9&show_icons=true&theme=nord)](https://github.com/tru9)
