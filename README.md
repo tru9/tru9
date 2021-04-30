@@ -1,13 +1,12 @@
-## Yo! I'm tru9! 👋
+## Yo! 👋
 
-Hey, I'm tru9. I'm a TypeScript and JavaScript programmer. I regularly work around the [ROBLOX API](https://api.roblox.com/docs?useConsolidatedPage=tru) in my free-time.
+Hello, my name is tru9. I'm a programmer who works with TypeScript and JavaScript. In my spare time, I play with the [ROBLOX API](https://api.roblox.com/docs?useConsolidatedPage=tru).
 
-I'm currently available for work so just contact me on my Twitter or add my Discord account (Recommended)!
+I'm currently available for work, so send me a message on Twitter or add me on Discord (Recommended)!
 
 ### Find Me
 
 - [Twitter](https://twitter.com/tru9_) - _tru9\__
-- [Roblox](https://www.roblox.com/users/2434302765/profile) - _t_ru9_
 - [Discord](https://discord.com) - _static#5463_
 
 ### Extra
