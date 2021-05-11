@@ -1,15 +1,16 @@
-## Yo! 👋
+## Sup 👋
 
-Hello, my name is tru9. I'm a programmer who works with TypeScript and JavaScript. In my spare time, I play with the [ROBLOX API](https://api.roblox.com/docs?useConsolidatedPage=tru).
+Hey! My name is tru9. I mainly use my expertise in the Roblox API or when making projects for fun.
 
-I'm currently available for work, so send me a message on Twitter or add me on Discord (Recommended)!
+I've recently created projects such as: 
+- [Denblox](https://deno.land/x/denblox): Roblox Api-Wrapper for Deno
 
-### Find Me
-
-- [Twitter](https://twitter.com/tru9_) - _tru9\__
-- [Discord](https://discord.com) - _static#5463_
+If you ever plan contacting me, you can reach my socials at: 
+- Roblox -  [t_ru9](https://www.roblox.com/users/2434302765/profile)
+- Discord - static#5463
+- Twitter - [tru9_](https://twitter.com/tru9_)
 
 ### Extra
+*Not much to see*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tru9&repo=denblox&theme=nord)](https://github.com/tru9)  
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=tru9&show_icons=true&theme=nord)](https://github.com/tru9)
+[![Readme Card](https://github-profile-trophy.vercel.app/?username=tru9&theme=onedark)](https://github.com/tru9)  
