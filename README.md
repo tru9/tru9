@@ -12,4 +12,3 @@ If you ever plan contacting me, you can reach my socials at:
 ### Extra
 *Not much to see*
 
-[![Readme Card](https://github-profile-trophy.vercel.app/?username=tru9&theme=onedark)](https://github.com/tru9)  
