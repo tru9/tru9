@@ -6,7 +6,6 @@ I've recently created projects such as:
 - [Denblox](https://deno.land/x/denblox): Roblox Api-Wrapper for Deno
 
 If you ever plan contacting me, you can reach my socials at: 
-- Roblox -  [t_ru9](https://www.roblox.com/users/2434302765/profile)
 - Discord - static#5463
 - Twitter - [tru9_](https://twitter.com/tru9_)
 
